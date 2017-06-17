@@ -225,6 +225,10 @@ header .header-content .header-content-inner p {
   color: #b01823;
 }
 
+.service-box h3{
+  font-size: 20px;
+}
+
 .call-to-action i{
   font-size: 5em;
   color: #b01823;
@@ -365,6 +369,11 @@ img::-moz-selection {
 /* body {
   webkit-tap-highlight-color: #111118;
 } */
+
+section .project{
+  margin: 10px;
+}
+
 footer {
   padding: 50px 0;
   background-color: #3b3b3b;
