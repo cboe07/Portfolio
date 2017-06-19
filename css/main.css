@@ -249,6 +249,11 @@ header .header-content .header-content-inner p {
   background-image: none;
 }
 
+.btn-default .badge {
+  color: #ffffff;
+  background-color: #111118;
+}
+
 .btn-primary {
   color: #ffffff;
   background-color: #b01823;
@@ -267,6 +272,8 @@ header .header-content .header-content-inner p {
   background-color: #3b3b3b;
   border-color: #3b3b3b;
 }
+
+
 
 .btn-primary .badge {
   color: #b01823;
