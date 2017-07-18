@@ -353,9 +353,21 @@ section .project{
 
 }
 
+#portfolio i{
+  color: #b01823;
+  font-size: 25px;
+}
+
+.reduxDiv {
+    width: 94px;
+    background-image: url(http://image.ibb.co/cfeLY5/redux_logo_9_CA6836_C12_seeklogo_com.png);
+}
+
 
 footer {
   padding: 50px 0;
   background-color: #3b3b3b;
   color: #b01823;
 }
+
+
